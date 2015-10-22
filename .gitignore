@@ -1,0 +1,8 @@
+vendor
+
+*.swp
+tags
+
+tmp
+
+composer.lock
